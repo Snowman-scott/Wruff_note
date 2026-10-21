@@ -1,0 +1,8 @@
+{
+  "dbHost":"",
+  "dbPort":"",
+  "dbName":"",
+  "dbUser":"",
+  "dbPass":"",
+  "sslMod":""
+}
